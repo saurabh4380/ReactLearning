@@ -8,4 +8,4 @@ import ButtonDemo from './Components/ButtonDemo'
 import Apicall from './Components/Apicall'
 import Formpractice from './Components/Formpractice'
 import Memegenerator from './Components/Memegenerator'
-ReactDOM.render(<Memegenerator/>,document.getElementById("root"))
+ReactDOM.render(<Clock/>,document.getElementById("root"))
