@@ -7,9 +7,7 @@ import App from './Components/App'
 import ButtonDemo from './Components/ButtonDemo'
 import Apicall from './Components/Apicall'
 import Formpractice from './Components/Formpractice'
-<<<<<<< HEAD
 import Memegenerator from './Components/Memegenerator'
-ReactDOM.render(<Memegenerator/>,document.getElementById("root"))
-=======
+ReactDOM.render(<Clock/>,document.getElementById("root"))
 
->>>>>>> Directory cleanup
+
